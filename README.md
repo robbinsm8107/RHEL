@@ -17,7 +17,7 @@ Over the last few months, I have realized that I have to build upon a strong fou
 
 <h2>Operating Systems Used </h2>
 
-- RHEL 9
+- RHEL 9.1
 
 <h2>High-Level Steps</h2>
 - Lorem ipsum
